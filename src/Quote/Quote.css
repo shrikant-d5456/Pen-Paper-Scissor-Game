@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image:linear-gradient(45deg,rgb(248, 224, 255),rgb(206, 179, 255));
+    background-image: linear-gradient(45deg,rgb(255, 174, 240),rgb(255, 255, 255),rgb(255, 255, 255),rgb(255, 255, 255),rgb(160, 238, 255));
     background-size: cover;
     font-family: comfortaa;
     background-repeat: no-repeat;
@@ -12,11 +12,10 @@ body{
     height: 100vh;    
 }
 h1{
-    width: 100%;
+    width: 98%;
     text-align: center;
-    padding: 2%;
-    margin-top: 2%;
-    background-image:linear-gradient(45deg, rgb(9, 9, 10),rgb(183, 28, 255));
+    padding: 1%;
+    background-image:linear-gradient(45deg, rgb(255, 0, 242),rgb(33, 137, 255));
     color: white;
     font-weight: bold;
     

@@ -30,7 +30,7 @@ export default function Quote() {
 
   return (
     <>
-      <h1>Random Quote</h1>
+      <h1>|| Random Quote ||</h1>
 
       {data.map((cur, index) =>
         index === randomNumber ? (
