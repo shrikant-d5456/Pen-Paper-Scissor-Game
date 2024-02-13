@@ -1,9 +1,9 @@
 import './App.css';
-import Page from './Game/Page'
+import Quote from './Quote/Quote'
 
 function App() {
   return (
-   <Page/> 
+   <Quote/>
   );
 }
 
