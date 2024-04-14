@@ -1,5 +1,5 @@
 # Pen Papper Scissor Game
-<img src="https://th.bing.com/th/id/OIP.nM9n8GRGvBXaG87DBwGjYgHaEK?w=302&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="img" />
+<img src="public/Screenshot 2024-04-13 232625.png" alt="img" />
 
 # Getting Started with Create React App
 
