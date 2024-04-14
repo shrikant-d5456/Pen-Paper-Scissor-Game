@@ -1,6 +1,6 @@
-https://brsyvz.github.io/rock-paper-scissors-game/img/rock.png mooth
-https://brsyvz.github.io/rock-paper-scissors-game/img/paper.png 5 fingure
-https://brsyvz.github.io/rock-paper-scissors-game/img/scissors.png 2
+https://brsyvz.github.io/rock-paper-scissors-game/img/rock.png pen
+https://brsyvz.github.io/rock-paper-scissors-game/img/paper.png paper
+https://brsyvz.github.io/rock-paper-scissors-game/img/scissors.png scissor
 
 
 1 rock >  2 scissors
